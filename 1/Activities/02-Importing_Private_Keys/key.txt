@@ -1,0 +1,4 @@
+new wallet
+private Key = "dd94e67024584128d53c35b0e81e7e91c804e406489ee4aee748f29c49d617ad"
+big wallet
+private key ="0x2066908e241e52cb6f0b0ab2288b4fd139f6c9c753016a783e1fc4f3f396e200"
